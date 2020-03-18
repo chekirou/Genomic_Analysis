@@ -1,2 +1,3 @@
-# 3i025_project_3
-third project of the 3i025 course on statistics for computer science 
+# Genomic Analysis Based on Statistical Methods
+
+Third project of the 3i005 course on statistics for computer science at Sorbonne University. 
